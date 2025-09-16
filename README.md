@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @saadillahn98
-- 👀 I’m interested in Data Engineer & Frontend Developer
-- 🌱 I’m currently learning Machine Learning and UI/UX Design
-- 💞️ I’m looking to collaborate on Discord : Saadillahn_
+- 👀 I’m interested in Data Science and any data related field
+- 🌱 I’m currently learning Python, SQL, Machine Learning, HTML, CSS and JavaScript
+- 💞️ I’m looking to collaborate on Whatsapp : +6285810558588
 - 📫 How to reach me on email : saadillahnoer@gmail.com
 
 <!---
